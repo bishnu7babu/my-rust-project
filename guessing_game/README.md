@@ -24,7 +24,7 @@ Here's an example of how the game might proceed:
 To deploy this project run
 
 ```bash
-Game:: Guess The Number:
+Game:: Guess The Number
 Chance = 5
 Range 1 to 100
 <----------------------------------------------->
