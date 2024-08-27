@@ -19,10 +19,6 @@ Welcome to the "Guess The Number" game, a simple command-line game written in Ru
 ## Example
 Here's an example of how the game might proceed:
 
-## Deployment
-
-To deploy this project run
-
 ```bash
 Game:: Guess The Number
 Chance = 5
@@ -78,10 +74,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [rand crate](https://crates.io/crates/rand)
 
 Enjoy playing and have fun!
-
+## contact
+If you have any questions or suggestions, feel free to contact me at [your-email@example.com].
 ```bash
 ## Contact
-
 If you have any questions or suggestions, feel free to contact me at [mbishnu7799@gmail.com].
 ```
 This README provides a clear and concise guide to playing the game, along with instructions for setting up and running the project. You can adjust it based on your specific preferences or additional features you may want to add.
