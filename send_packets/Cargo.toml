@@ -1,0 +1,8 @@
+[package]
+name = "send_packets"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = {version = "1.40.0" , features = ["full"]}
+clap = {version = "4.5.17" , features = ["derive"]}
